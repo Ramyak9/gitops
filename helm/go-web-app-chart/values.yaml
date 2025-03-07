@@ -8,7 +8,7 @@ image:
   repository: ramyak9/gitops-eks
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "13713324863"
+  tag: "13713339563"
 
 ingress:
   enabled: false
