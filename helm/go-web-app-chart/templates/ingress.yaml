@@ -7,7 +7,7 @@ metadata:
     nginx.ingress.kubernetes.io/rewrite-target: /
 spec:
   rules:
-  - host: go-web-app.local
+  - host: "a08424b2aec344f38b91c9419e9b0814-d760901eebe88471.elb.us-east-2.amazonaws.com"
     http:
       paths: 
       - path: /
